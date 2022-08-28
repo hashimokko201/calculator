@@ -1,3 +1,3 @@
 require './calculator'
 
-run Calculator
+run Sinatra::Application
